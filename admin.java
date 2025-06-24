@@ -22,6 +22,7 @@ class login{
     void signin()
     {
         Scanner sc=new Scanner(System.in);
+        int n;
     }
 }
 public class admin{
